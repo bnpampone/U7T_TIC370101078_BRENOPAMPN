@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/CaixaDAgua.uf2'
+elf = 'build/CaixaDAgua.elf'
