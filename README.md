@@ -1,1 +1,2 @@
 # U7T_TIC370101078_BRENOPAMPN
+O projeto tem como objetivo desenvolver um sistema para monitoramento e controle do nível de água de uma caixa d’água. O sistema exibe o nível atual da água em um display OLED e utiliza uma matriz de LEDs para representar visualmente os diferentes níveis. Além disso, LEDs alertam sobre a situação do reservatório, acendendo um LED vermelho quando a capacidade máxima é atingida e LED Verde quando ainda há capacidade disponível.
